@@ -46,8 +46,8 @@ from keras import backend as K
 # dimensions of our images.
 img_width, img_height = 150, 150
 
-train_data_dir = 'github/data/train'
-validation_data_dir = 'github/data/validation'
+train_data_dir = 'gitpatto/data/train'
+validation_data_dir = 'gitpatto/data/validation'
 nb_train_samples = 2000
 nb_validation_samples = 800
 epochs = 50
